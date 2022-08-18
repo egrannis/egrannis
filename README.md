@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Emma :computer: :wave:
+
+I'm a recent Web Development grad from Lighthouse Labs' 12-week bootcamp. I have a background as a digital advertising and analytics team lead at a rapidly growing start-up. At this company, I discovered my passion for problem-solving and tech, creating basic automation flows and data visualizations for my team. Through exposure to the development team, I was also able to learn more about web products. I’m fascinated by how a system works comprehensively and aim to leverage my adaptiveness and background in collaboration to meet the challenges faced by web development teams.
+
+I'm currently working on honing in on my React skills and learning TypeScript. From here, I plan to learn Python! 
+
+:us: I'm seeking full-time opportunities in the US
+📫 I can be reached via email: grannis.emma@gmail.com
+
+
 
 <!--
 **egrannis/egrannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
