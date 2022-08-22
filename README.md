@@ -1,6 +1,6 @@
 ### Hi there! I'm Emma :computer: :wave:
 
-I'm a recent Web Development grad from [Lighthouse Labs](https://www.lighthouselabs.ca/)' 12-week bootcamp. I have a background as a digital advertising and analytics team lead at a rapidly growing start-up. While in this role, I discovered my passion for problem-solving and tech and created basic automation flows and data visualizations for my team. Through exposure to and interaction with the development team, I was also able to learn more about web products. I’m fascinated by how a system works comprehensively and hope to leverage my adaptiveness and background in collaboration to meet the challenges faced by web development teams. 
+I'm a recent Web Development grad from [Lighthouse Labs](https://www.lighthouselabs.ca/)' 12-week full-time bootcamp. I have a background as a digital advertising and analytics team lead at a rapidly growing start-up. While in this role, I discovered my passion for problem-solving and tech and created basic automation flows and data visualizations for my team. Through exposure to and interaction with the development team, I was also able to learn more about web products. I’m fascinated by how a system works comprehensively and hope to leverage my adaptiveness and background in collaboration to meet the challenges faced by web development teams. 
 
   :us: I'm a dual Canadian-American citizen seeking full-time opportunities in the US
 
