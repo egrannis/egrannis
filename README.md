@@ -4,7 +4,7 @@ I'm a recent Web Development grad from Lighthouse Labs' 12-week bootcamp. I have
 
 I'm currently working on honing in on my React skills and learning TypeScript. From here, I plan to learn Python! 
 
-:us: I'm seeking full-time opportunities in the US
+:us: I'm seeking full-time opportunities in the US and planning a move to NYC
 📫 I can be reached via email: grannis.emma@gmail.com
 
 
