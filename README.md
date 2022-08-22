@@ -1,15 +1,14 @@
 ### Hi there! I'm Emma :computer: :wave:
 
-I'm a recent Web Development grad from [Lighthouse Labs](https://www.lighthouselabs.ca/)' 12-week bootcamp. I have a background as a digital advertising and analytics team lead at a rapidly growing start-up. At this company, I discovered my passion for problem-solving and tech, creating basic automation flows and data visualizations for my team. Through exposure to the development team, I was also able to learn more about web products. I’m fascinated by how a system works comprehensively and aim to leverage my adaptiveness and background in collaboration to meet the challenges faced by web development teams.
+I'm a recent Web Development grad from [Lighthouse Labs](https://www.lighthouselabs.ca/)' 12-week bootcamp. I have a background as a digital advertising and analytics team lead at a rapidly growing start-up. While in this role, I discovered my passion for problem-solving and tech and created basic automation flows and data visualizations for my team. Through exposure to and interaction with the development team, I was also able to learn more about web products. I’m fascinated by how a system works comprehensively and hope to leverage my adaptiveness and background in collaboration to meet the challenges faced by web development teams. 
 
-I'm currently working on honing in on my React skills and learning TypeScript. 
+  :us: I'm a dual Canadian-American citizen seeking full-time opportunities in the US
 
-:us: I'm seeking full-time opportunities in the US
-📫 I can be reached via email: grannis.emma@gmail.com
+  📫 I can be reached via email: grannis.emma@gmail.com
 
 
 ## Tech Stack:
-#### Experience With:
+### I Have Experience With:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="60px" height="60px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="60px" height="60px" ></a>
@@ -29,10 +28,9 @@ I'm currently working on honing in on my React skills and learning TypeScript.
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="60px" height="60px" ></a>
 <a  href="https://mochajs.org/" title="Mocha" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"   width="60px" height="60px"  />
 
-#### Planning To Learn:
+### I'm Planning To Learn:
 </br>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="60px" height="60px"></a>
-<a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="60px" height="60px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="60px" height="60px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="60px" height="60px"></a>
 
