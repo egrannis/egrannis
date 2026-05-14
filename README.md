@@ -1,12 +1,3 @@
-### Hi there! I'm Emma :computer: :wave:
-
-I'm a Web Development grad from [Lighthouse Labs](https://www.lighthouselabs.ca/)' 12-week full-time bootcamp. I have a background as a digital advertising and analytics team lead at a rapidly growing start-up. While in this role, I discovered my passion for problem-solving and tech and created basic automation flows and data visualizations for my team. Through exposure to and interaction with the development team, I was also able to learn more about web products.
-
-  :us: I'm a dual American-Canadian citizen seeking full-time opportunities in the US
-
-  📫 I can be reached via email: grannis.emma@gmail.com
-
-
 ## Tech Stack:
 ### I Have Experience With:
 
